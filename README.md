@@ -2,7 +2,7 @@
 
 Thanks to [@samcv](https://github.com/samcv), who extracted to binaries from the Lenovo provided firmware for this card.
 
-She also described the steps and the source of the firmware in details in her repo. [samcv/A485-RTL8822BE-firmware](https://github.co/samcv/A485-RTL8822BE-firmware)
+She also described the steps and the source of the firmware in details in her repo. [samcv/A485-RTL8822BE-firmware](https://github.com/samcv/A485-RTL8822BE-firmware)
 
 
 Even though I heard linux kernel should make devices work in general.
