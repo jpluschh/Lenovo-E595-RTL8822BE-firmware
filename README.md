@@ -1,7 +1,9 @@
 # Lenovo E595 RTL8822BE firmware - Linux
 
 Thanks to @samcv, who extracted to binaries from the Lenovo provided firmware for this card.
-Also described the steps and the source of the firmware in details here samcv/A485-RTL8822BE-firmware
+She also described the steps and the source of the firmware in details in her repo.
+
+samcv/A485-RTL8822BE-firmware
 
 
 Even though I heard linux kernel should make devices work in general.
